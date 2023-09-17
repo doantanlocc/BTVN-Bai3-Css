@@ -1,0 +1,108 @@
+.container {
+    width: 650px;
+    height: 620px;
+    margin: 0px auto;
+    background-color: rgb(243, 241, 241);
+}
+
+.main-menu {
+    width: 609px;
+    height: 60px;
+    border-bottom: 2px solid rgb(201, 199, 199);
+    display: flex;
+    margin-left: 20px;
+}
+
+.main-menu i {
+    font-size: 11px;
+}
+
+.main-menu1 {
+    width: 50%;
+    height: 60px;
+
+}
+
+.main-menu2 {
+    width: 50%;
+    height: 60px;
+
+}
+
+.main-menu2 a {
+    text-decoration: none;
+    color: black;
+}
+
+#nameWeb {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+}
+
+#Info {
+    margin-top: 39px;
+    float: right;
+    margin-right: 0px;
+    font-size: 13px;
+}
+
+.header {
+    width: 608px;
+    height: 280px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.header img {
+    height: 281px;
+    width: 609px;
+}
+
+.content {
+    width: 295px;
+    height: 170px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+.content img {
+    width: 295px;
+    height: 170px;
+}
+
+.sidebar {
+    width: 295px;
+    height: 170px;
+    margin-left: 333px;
+    margin-top: 20px;
+}
+
+.sidebar img {
+    width: 295px;
+    height: 170px;
+}
+
+.footer {
+    width: 608px;
+    height: 40px;
+    border-top: 2px solid rgb(201, 199, 199);
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.contact {
+    width: 60%;
+}
+
+.contact p {
+    margin-top: 4px;
+    float: left;
+    font-size: 7.5px;
+}
+
+.text-footer p {
+    margin-top: 4px;
+    font-size: 8.5px;
+    float: right;
+}
